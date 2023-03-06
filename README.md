@@ -14,6 +14,7 @@ Fuudik is a simple food delivery application. It is a Laravel application with a
 5. Run `./vendor/bin/sail php artisan migrate:refresh --seed`
 6. Run `./vendor/bin/sail php artisan queue:listen`
 7. Run `./vendor/bin/sail php artisan test`
+8. See a postman collection in the root of the project
 
 ## Roadmap
 - Add more tests
